@@ -431,10 +431,10 @@
 				INFOPLIST_FILE = "Demo-Test/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lakeba.Demo-Test";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lakeba.laf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "fa211e06-04ad-4165-9417-0ba0748db9f7";
-				PROVISIONING_PROFILE_SPECIFIER = "iOS Development Common";
+				PROVISIONING_PROFILE = "0b85453d-d0e0-43a7-b4a6-52aba3e2cd37";
+				PROVISIONING_PROFILE_SPECIFIER = "LAF Development 2";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -450,10 +450,10 @@
 				INFOPLIST_FILE = "Demo-Test/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lakeba.Demo-Test";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lakeba.laf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "da418c6f-dd5b-461f-88aa-5815cc70b0c6";
-				PROVISIONING_PROFILE_SPECIFIER = "iOS Distribution Common";
+				PROVISIONING_PROFILE = "28745029-f761-466d-801e-3d2590b37a35";
+				PROVISIONING_PROFILE_SPECIFIER = "Laf Adhoc";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
